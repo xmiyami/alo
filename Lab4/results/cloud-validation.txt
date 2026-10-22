@@ -1,0 +1,7 @@
+PASS: 48 checks; 22 arithmetic callbacks. GUI bridge is NOT tested by these tests.
+Platform: Linux; Windows GUI/WSH/PowerShell tests: NOT RUN (not available).
+Node: v24.19.0
+PASS: node --check engine.js (exit 0)
+PASS: node --check script3.js (exit 0)
+PASS: node --check tests/test-engine.js (exit 0)
+Expected outputs are references generated with test arithmetic, not Calculator observations.
