@@ -1,0 +1,3 @@
+PASS: 12 integration assertions; all four selections, six report examples, seven simulated Calculator requests per run. Windows GUI NOT tested.
+JScript syntax: node --check PASS.
+Standalone VBScript and PowerShell: Windows execution NOT RUN (Linux cloud).
