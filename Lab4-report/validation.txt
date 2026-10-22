@@ -3,3 +3,5 @@ JScript syntax: node --check PASS.
 Standalone VBScript and PowerShell: Windows execution NOT RUN (Linux cloud).
 PASS: 12 integration assertions; all four selections, six report examples, seven simulated Calculator requests per run. Windows GUI NOT tested.
 Unicode fix: labels written with CreateTextFile(..., True, True), no SendKeys text/paste in VBScript. Windows GUI verification pending.
+PASS: 12 integration assertions; all four selections, six report examples, seven simulated Calculator requests per run. Windows GUI NOT tested.
+Display-reading change: UI Automation result IDs CalculatorResults/150; WScript clipboard fallback restored. Windows GUI and PowerShell execution NOT RUN.
